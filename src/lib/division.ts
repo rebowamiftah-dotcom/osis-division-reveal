@@ -11,7 +11,7 @@ export const divisionGroups = [
   { division: 4, name: "Media Kreatif", link: "https://chat.whatsapp.com/D72HTxhcYg1HEuuDvXoQ1x?mode=wwt" },
   { division: 5, name: "Ekonomi Kreatif", link: "https://chat.whatsapp.com/FaFtnKyKlau8iqGwKLKuR7?mode=wwt" },
   { division: 6, name: "Pubdok", link: "https://chat.whatsapp.com/FFG8R7wt9gx6EaAxfn9Rn1" },
-  { division: 7, name: "Agama", link: "https://chat.whatsapp.com/EItbRByQnEw0312gwHAaiF" },
+  { division: 7, name: "Agama", link: "https://chat.whatsapp.com/F7khL5XKPq85nzSCwqS3Yj?mode=hqrt2" },
   { division: 8, name: "Greenlife", link: "https://chat.whatsapp.com/LG5JY3yRwU25UCMJIitv4F?mode=wwt" },
 ];
 
