@@ -37,7 +37,7 @@ export const studentDivisions: StudentDivision[] = [
   { id: 11, name: "syaiful ulum", kelas: "10 rpl", division: 2, role: "anggota", pj: "shasa" },
   { id: 12, name: "m rizky firmansyah", kelas: "10 rpl", division: 2, role: "wakil", pj: "shasa" },
   { id: 13, name: "nadhir joshafarra", kelas: "10 rpl", division: 2, role: "anggota", pj: "shasa" },
-  { id: 14, name: "m fariz fathurahman", kelas: "10 tkr", division: 2, role: "ketua", pj: "shasa" },
+  { id: 14, name: "m fariz fathurahman", kelas: "11 tkr", division: 2, role: "ketua", pj: "shasa" },
 
   // =========================
   //      3. BELA NEGARA
